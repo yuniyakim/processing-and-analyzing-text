@@ -1,2 +1,3 @@
 # processing-and-analyzing-text
- Program processing and analyzing text from articles at Google Scholar website
+ 
+ Program for processing and analyzing text from articles on **cryptography** at Google Scholar website
